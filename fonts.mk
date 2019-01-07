@@ -45,7 +45,7 @@ PRODUCT_PACKAGES := \
     NotoSansBuhid-Regular.ttf \
     NotoSansCanadianAboriginal-Regular.ttf \
     NotoSansCarian-Regular.ttf \
-    NotoSansChakma-Regular.ttf \
+    NotoSansChakma-Regular.otf \
     NotoSansCham-Bold.ttf \
     NotoSansCham-Regular.ttf \
     NotoSansCherokee-Regular.ttf \
@@ -124,9 +124,8 @@ PRODUCT_PACKAGES := \
     NotoSansMyanmar-Bold.otf \
     NotoSansMyanmar-Medium.otf \
     NotoSansMyanmar-Regular.otf \
-    NotoSansMyanmarUI-Bold.otf \
-    NotoSansMyanmarUI-Medium.otf \
-    NotoSansMyanmarUI-Regular.otf \
+    NotoSansMyanmarUI-Bold-ZawDecode.ttf \
+    NotoSansMyanmarUI-Regular-ZawDecode.ttf \
     NotoSansNabataean-Regular.otf \
     NotoSansNewa-Regular.otf \
     NotoSansNewTaiLue-Regular.ttf \
